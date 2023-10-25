@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-10-25 at 10 17 54 PM" src="https://github.com/VikasKarbail/Language-detection/assets/117006055/6e552e55-3d50-43ec-813e-2d1cfbcfc9be"># Language-detection
+
 
 In a language detection project utilizing the Naive Bayes learning model, the primary objective is to determine the language of a user-provided text input. This task holds significant importance in various applications, where content categorization or user experience customization depends on the detected language.
 
