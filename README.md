@@ -1,4 +1,4 @@
-##Lanaguage-Detection
+<h1>Lanaguage-Detection</h1>
 
 In a language detection project utilizing the Naive Bayes learning model, the primary objective is to determine the language of a user-provided text input. This task holds significant importance in various applications, where content categorization or user experience customization depends on the detected language.
 
